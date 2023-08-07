@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Ciao! Mi chiamo Daniel e sono un programmatore Full-stack, da poco specializzato come Dev. Front-end!</h2>
+<p>Mi ha sempre affascinato il funzionamento dei programmi, più che sapere come si sviluppassero ero interessato al funzionamento, logiche e strategie. Per questo, nonostante stessi facendo un percorso artistico e multimediale, ho deviato verso una formazione nel settore informatico.</p>
 
 ###
 
