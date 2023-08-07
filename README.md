@@ -57,8 +57,4 @@
 </div>
 
 <p align="left">Nonostante la formazione in informatica continuo a coltivare la mia passione grafica e per la fotografia. Passione che mi permette, nei momenti di "burnout" di evadere nel migliore dei modi. Ma soprattutto mi permette di tenere sempre allenato il mio occhio per i dettagli e la cura nel realizzarli.</p>
-###
 
-<br clear="both">
-
-###
