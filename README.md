@@ -2,6 +2,7 @@
 <h3 align="center">Sono un programmatore Full-stack, e mi sono da poco specializzato come Dev. Front-end!</h3>
 <p align="center">Mi ha sempre affascinato il funzionamento dei programmi, più che sapere come si sviluppassero ero interessato al funzionamento, logiche e strategie. Per questo, nonostante stessi facendo un percorso artistico e multimediale, ho deviato verso una formazione nel settore informatico.</p>
 
+
 ###
 
 <div align="center">
@@ -55,6 +56,7 @@
   </a>
 </div>
 
+<p align="center">Nonostante la formazione in informatica continuo a coltivare la mia passione grafica e per la fotografia. Passione che mi permette, nei momenti di "burnout" di evadere nel migliore dei modi. Ma soprattutto mi permette di tenere sempre allenato il mio occhio per i dettagli e la cura nel realizzarli.</p>
 ###
 
 <br clear="both">
