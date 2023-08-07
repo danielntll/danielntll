@@ -1,5 +1,6 @@
-<h2 align="left">Ciao! Mi chiamo Daniel e sono un programmatore Full-stack, da poco specializzato come Dev. Front-end!</h2>
-<p>Mi ha sempre affascinato il funzionamento dei programmi, più che sapere come si sviluppassero ero interessato al funzionamento, logiche e strategie. Per questo, nonostante stessi facendo un percorso artistico e multimediale, ho deviato verso una formazione nel settore informatico.</p>
+<h2 align="center">Ciao! Mi chiamo Daniel 🚀</h2>
+<h3 align="center">sono un programmatore Full-stack, e mi sono da poco specializzato come Dev. Front-end!</h3>
+<p align="center">Mi ha sempre affascinato il funzionamento dei programmi, più che sapere come si sviluppassero ero interessato al funzionamento, logiche e strategie. Per questo, nonostante stessi facendo un percorso artistico e multimediale, ho deviato verso una formazione nel settore informatico.</p>
 
 ###
 
